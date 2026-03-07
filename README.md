@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Jorge Mamani
 
-<!--
-**JorgeMamaniEsc/JorgeMamaniEsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student
+🧠 Interested in Computational Neuroscience
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Computer Science student
+* 🧠 Interested in **Neuroscience + AI + Robotics**
+* 💻 Competitive Programming enthusiast
+
+---
+
+## 🧠 Current Focus
+
+* Algorithms & Data Structures
+* Competitive Programming
+* Robotics Software
+* Computational Neuroscience
+
+---
+
+## 🏆 Competitive Programming
+
+* Codeforces: https://codeforces.com/profile/TwoSat_Kun
+
+Languages used in contests:
+
+* C++
+* Python
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* C++
+* Python
+* JavaScript
+
+### Fields
+
+* Algorithms
+* Backend Development
+* Robotics
+* Computational Neuroscience
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🔥 GitHub Streak
+
+---
+
+## 🎯 Current Goals
+
+* Reach **CM** on Codeforces
+* Build projects in **Brain-Computer Interfaces**
+* Contribute to **open source**
+* Work in **Neurotechnology / Robotics**
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/JorgeMamaniEsc
+
+---
