@@ -33,6 +33,12 @@ Languages used in contests:
 
 ---
 
+## 🏆 Codeforces
+
+[![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=TwoSat_Kun&theme=tokyonight)](https://codeforces.com/profile/TwoSat_Kun)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -52,9 +58,27 @@ Languages used in contests:
 
 ## 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeMamaniEsc&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeMamaniEsc&layout=compact&theme=tokyonight) 
+
+---
+
+## ⭐ GitHub Stars
+
+![Stars](https://github-readme-stats.vercel.app/api?username=JorgeMamaniEsc&show_icons=true&theme=tokyonight&include_all_commits=true)
+
 ---
 
 ## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JorgeMamaniEsc&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JorgeMamaniEsc&theme=tokyo-night)
 
 ---
 
@@ -67,8 +91,11 @@ Languages used in contests:
 
 ---
 
+
 ## 📫 Contact
 
 * GitHub: https://github.com/JorgeMamaniEsc
 
 ---
+
+![Profile views](https://komarev.com/ghpvc/?username=JorgeMamaniEsc&color=blueviolet)
