@@ -24,7 +24,7 @@
 
 ## 🏆 Competitive Programming
 
-* Codeforces: https://codeforces.com/profile/TwoSat_Kun
+* Codeforces: https://codeforces.com/profile/Matousek
 
 Languages used in contests:
 
@@ -35,7 +35,7 @@ Languages used in contests:
 
 ## 🏆 Codeforces
 
-[![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=TwoSat_Kun&theme=tokyonight)](https://codeforces.com/profile/TwoSat_Kun)
+[![Codeforces](https://codeforces-readme-stats.vercel.app/api/card?username=Matousek&theme=tokyonight)](https://codeforces.com/profile/Matousek)
 
 ---
 
